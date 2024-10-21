@@ -1,4 +1,4 @@
-# Reconheser Animal: Um Sistema para Amparar Animais e Protetores
+# Reconheser Animal: Um Sistema para Amparar Animais Abandonados e Resgatadose e seus respectivos Protetores
 
 ## Introdução
 
