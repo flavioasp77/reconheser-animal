@@ -1,33 +1,33 @@
-# Reconheser Animal: Um Sistema para Amparar Animais e Protetoras
+# Reconheser Animal: Um Sistema para Amparar Animais e Protetores
 
 ## Introdução
 
-Bem-vindo ao **Reconheser Animal**, um projeto que visa apoiar protetoras de animais na árdua tarefa de cuidar de cães e gatos abandonados, conectando-as com potenciais doadores e parceiros. Através de uma plataforma robusta e intuitiva, buscamos aliviar o fardo dessas heroínas anônimas e promover o bem-estar animal na sua cidade.
+Bem-vindo ao **Reconheser Animal**, um projeto que visa apoiar protetores de animais na árdua tarefa de cuidar de cães e gatos abandonados, conectando-os com potenciais doadores e parceiros. Através de uma plataforma robusta e intuitiva, buscamos aliviar o fardo dessas pessoas dedicadas e promover o bem-estar animal na sua cidade.
 
 ## Ideia Central do Projeto
 
-O **Reconheser Animal** é uma iniciativa destinada a criar uma comunidade de apoio que conecta protetoras de animais com doadores e parceiros, facilitando a gestão de doações e a divulgação do trabalho dessas protetoras. Nosso objetivo é proporcionar melhores condições para os animais abandonados e fortalecer a rede de suporte às protetoras, promovendo a responsabilidade e a compaixão pelos animais.
+O **Reconheser Animal** é uma iniciativa destinada a criar uma comunidade de apoio que conecta protetores de animais com doadores e parceiros, facilitando a gestão de doações e a divulgação do trabalho desses protetores. Nosso objetivo é proporcionar melhores condições para os animais abandonados e fortalecer a rede de suporte aos protetores, promovendo a responsabilidade e a compaixão pelos animais.
 
 ## Importância do Tema
 
-Milhares de animais são abandonados nas ruas todos os dias, sofrendo de fome, doenças e maus-tratos. As protetoras de animais desempenham um papel crucial no resgate e cuidado desses animais, mas muitas vezes enfrentam desafios significativos devido à falta de recursos. O **Reconheser Animal** não só melhora a qualidade de vida dos animais, mas também apoia as protetoras em seu trabalho, sensibilizando a comunidade sobre a importância da posse responsável e do combate ao abandono.
+Milhares de animais são abandonados nas ruas todos os dias, sofrendo de fome, doenças e maus-tratos. Os protetores de animais desempenham um papel crucial no resgate e cuidado desses animais, mas muitas vezes enfrentam desafios significativos devido à falta de recursos. O **Reconheser Animal** não só melhora a qualidade de vida dos animais, mas também apoia os protetores em seu trabalho, sensibilizando a comunidade sobre a importância da posse responsável e do combate ao abandono.
 
 ## Funcionalidades Essenciais
 
-1. **Cadastro e Gerenciamento de Protetoras**
+1. **Cadastro e Gerenciamento de Protetores**
    - Criação de perfil
    - Publicação de solicitações de doações
    - Acompanhamento de doações recebidas
    - Visualização do histórico de atividades
 
 2. **Conexão com Doadores e Parceiros**
-   - Visão geral das necessidades das protetoras
-   - Contato direto com protetoras
+   - Visão geral das necessidades dos protetores
+   - Contato direto com protetores
    - Sistema de doações online
    - Programa de apadrinhamento
 
 3. **Divulgação e Transparência**
-   - Página de perfil das protetoras
+   - Página de perfil dos protetores
    - Seção de notícias
    - Galeria de fotos e vídeos
    - Relatórios de doações
@@ -42,7 +42,7 @@ Milhares de animais são abandonados nas ruas todos os dias, sofrendo de fome, d
 ## Etapas do Desenvolvimento do Projeto
 
 ### 1. Levantamento de Requisitos
-   - Entrevistas com protetoras de animais
+   - Entrevistas com protetores de animais
    - Pesquisa com potenciais doadores e parceiros
    - Definição das funcionalidades prioritárias
 
@@ -58,13 +58,13 @@ Milhares de animais são abandonados nas ruas todos os dias, sofrendo de fome, d
 
 ### 4. Testes e Qualidade
    - Testes unitários, de integração e de sistema
-   - Testes de usabilidade com protetoras e doadores
+   - Testes de usabilidade com protetores e doadores
    - Correção de bugs e melhorias de performance
 
 ### 5. Lançamento e Divulgação
    - Implantação da plataforma em ambiente de produção
    - Campanhas de lançamento e divulgação
-   - Treinamento e suporte para protetoras
+   - Treinamento e suporte para protetores
 
 ### 6. Manutenção e Evolução
    - Monitoramento contínuo da plataforma
@@ -83,7 +83,7 @@ Juntos, podemos construir uma comunidade mais compassiva e responsável com os a
 
 ---
 
-Agradecemos pelo seu interesse no **Reconheser Animal**. Vamos transformar a realidade dos animais abandonados e apoiar as protetoras em sua nobre missão!
+Agradecemos pelo seu interesse no **Reconheser Animal**. Vamos transformar a realidade dos animais abandonados e apoiar os protetores em sua nobre missão!
 
 ## Contato
 
@@ -91,4 +91,4 @@ Para mais informações ou para colaborar com o projeto, entre em contato conosc
 
 ---
 
-Vamos ajudar os bichinhos! 🐾
+Vamos ajudar as patinhas! 🐾
