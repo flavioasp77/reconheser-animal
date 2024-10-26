@@ -87,8 +87,8 @@ Agradecemos pelo seu interesse no **Reconheser Animal**. Vamos transformar a rea
 
 ## Contato
 
-Para mais informações ou para colaborar com o projeto, entre em contato conosco através do email:
-flavioasp77@gmail.com  
+Para mais informações ou para colaborar com o projeto, entre em contato conosco:  
+Através do email: flavioasp77@gmail.com  
 Através do Linkedin: [Flávio Anselmo dos Santos Pires](https://www.linkedin.com/in/flavio-anselmo-dos-santos-pires/)  
 Grupo do projeto no WhatsApp: [ReconheSer Animal](https://chat.whatsapp.com/FxG79EEIGRDE6OynMY0uih)  
 
