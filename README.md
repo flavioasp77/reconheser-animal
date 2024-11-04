@@ -6,7 +6,7 @@ Bem-vindo ao **Reconheser Animal**, um projeto que visa apoiar protetores de ani
 
 ## Ideia Central do Projeto
 
-O **Reconheser Animal** é uma iniciativa destinada a criar uma comunidade de apoio que conecta protetores de animais com doadores e parceiros, facilitando a gestão de doações e a divulgação do trabalho desses protetores. Nosso objetivo é proporcionar melhores condições para os animais abandonados e fortalecer a rede de suporte aos protetores, promovendo a responsabilidade e a compaixão pelos animais.
+O **Reconheser Animal** é uma iniciativa destinada a criar uma comunidade de apoio que conecta protetores de animais com doadores, parceiros e adotantes, facilitando a gestão de doações e a divulgação do trabalho desses protetores. Nosso objetivo é proporcionar melhores condições para os animais abandonados e fortalecer a rede de suporte aos protetores, promovendo a responsabilidade e a compaixão pelos animais além da tentativa de encontrar um lar definitivo para esses bichinhos.
 
 ## Importância do Tema
 
